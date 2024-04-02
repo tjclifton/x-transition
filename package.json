@@ -8,7 +8,7 @@
     "public/transition.js"
   ],
   "exports": {
-    ".": "./public/transition.js"
+    ".": "./src/transition.ts"
   },
   "author": "Simon Green <simon@captaincodeman.com> (https://github.com/captaincodeman)",
   "license": "ISC",
